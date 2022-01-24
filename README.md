@@ -10,3 +10,11 @@ The model building notebook would comprise of all the machine learning concepts 
 •	Dimensionality Reduction
 •	GridSearchCV for hyperparameter tuning
 •	K fold cross validation technique
+
+Steps:
+1. Run model/HousePricePrediction.ipynb
+2. Run Server/server.py. It uses a saved model to serve a HTTP request.
+3. Run client/app.html 
+
+
+![image](https://user-images.githubusercontent.com/52985004/150883914-dca40f19-aef5-4e15-8c16-a1ea0e9a7bce.png)
