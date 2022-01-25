@@ -18,3 +18,5 @@ Steps:
 
 
 ![image](https://user-images.githubusercontent.com/52985004/150883914-dca40f19-aef5-4e15-8c16-a1ea0e9a7bce.png)
+Note: Would like to thank codebasics for the insights. 
+This project is ongoing and would like to replicate to US context.
